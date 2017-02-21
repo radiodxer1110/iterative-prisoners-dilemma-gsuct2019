@@ -7,8 +7,8 @@
 ####
 
 team_name = 'Thebatmans' # Only 10 chars displayed.
-strategy_name = 'The name the team gives to this strategy'
-strategy_description = 'How does this strategy decide?'
+strategy_name = 'Alternate'
+strategy_description = 'always Betray'
     
 def move(my_history, their_history, my_score, their_score):
     ''' Arguments accepted: my_history, their_history are strings.
@@ -66,3 +66,4 @@ if __name__ == '__main__':
               my_score=0, 
               their_score=0,
               result='b')             
+Define test
