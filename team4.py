@@ -7,7 +7,7 @@
 ####
 
 team_name = 'ArtPony'
-strategy_name = 'Betray'
+strategy_name = 'Grim Betrayal'
 strategy_description = 'Always betray.'
     
 def move(my_history, their_history, my_score, their_score):
